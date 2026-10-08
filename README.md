@@ -35,7 +35,6 @@ Implementação em Python de um sistema de arquivos, incluindo gerenciamento de 
 **Jogos e simulações em Python**
 Desenvolvimento de jogos 2D e simulações interativas utilizando bibliotecas como Pyxel e Pygame.
 
-*Os repositórios dos projetos estão sendo organizados e documentados.*
 
 ## 🏅 Formação complementar e certificações
 
