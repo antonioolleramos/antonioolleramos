@@ -62,7 +62,7 @@ Front-end de compilador acadêmico com análises léxica, sintática e semântic
 
 ## 📚 Outros projetos e experiências
 
-**Website Institucional Innovatio** — Personalização e desenvolvimento de interface responsiva em Joomla, utilizando PHP, HTML e CSS, incluindo páginas institucionais e integração de formulário de contato.
+**[Website de Incubadora — Demonstração em Joomla](https://github.com/antonioolleramos/incubadora-demo-joomla)** — Demonstração fictícia e independente de interface responsiva, baseada em personalização de Joomla. A versão pública utiliza HTML, CSS e JavaScript, com conteúdo anonimizado e formulário apenas visual.
 
 **Wireworld — Autômato Celular** — Simulação gráfica interativa de estados e regras de transição em Python com Pyxel.
 
