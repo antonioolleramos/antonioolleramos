@@ -23,33 +23,38 @@
 
 ### 🏢 [IncubaLab — Demonstração de Gestão de Incubadoras](https://github.com/antonioolleramos/incubalab-demo-portfolio)
 
-**TypeScript · HTML · CSS · JavaScript**
+**TypeScript · JavaScript · Desenvolvimento Web**
 
-Demonstração interativa desenvolvida para portfólio, inspirada em um sistema institucional de gestão de incubadoras de empresas.
+Demonstração interativa para portfólio, inspirada em um sistema institucional de gestão de incubadoras. A versão pública utiliza dados fictícios; o sistema profissional original em Next.js, React, TypeScript, PostgreSQL e Prisma permanece privado.
 
-O projeto profissional original utiliza **Next.js, React, TypeScript, PostgreSQL e Prisma**, com autenticação, controle de acesso, dashboards e módulos administrativos. Seu código permanece privado.
+<!-- CHAT-TCP-START -->
+<!-- CHAT-TCP-END -->
 
-A versão pública permite explorar uma interface com dados fictícios, cadastros, indicadores e relatórios.
+### 💾 [Sistema de Arquivos com i-nodes](https://github.com/antonioolleramos/sistema-de-arquivos-inodes)
+
+**Python · Estruturas de Dados · Sistemas de Arquivos**
+
+Sistema de arquivos virtual com disco persistente, gerenciamento de blocos e i-nodes, permissões, múltiplos usuários e testes automatizados.
 
 ### ⚙️ [Simulador de Sistemas Operacionais](https://github.com/antonioolleramos/simulador-sistemas-operacionais)
 
 **C · Sistemas Operacionais · Estruturas de Dados**
 
-Simulador acadêmico desenvolvido em C, contemplando escalonamento de processos, gerenciamento de memória e operações de entrada e saída.
+Simulador de escalonamento, gerenciamento de memória, filas de processos, bloqueios e entrada/saída.
 
-Inclui algoritmos de escalonamento, gerenciamento de filas, bloqueio de processos e simulação de dispositivos.
+### 📺 [CleanYourTV — TCL Custom Home](https://github.com/antonioolleramos/cleanyourtv-tcl-custom)
 
-### 💾 [Sistema de Arquivos com i-nodes](https://github.com/antonioolleramos/sistema-de-arquivos-inodes)
+**Java · Android TV · Interface · Integração de API**
 
-**Python · Sistemas de Arquivos · Gerenciamento de Memória Secundária**
+Fork com tela inicial minimalista, relógio, clima, navegação por controle remoto e documentação com imagens reais da TV.
 
-Implementação de um sistema de arquivos virtual com gerenciamento de i-nodes, blocos de dados, diretórios e permissões.
+### 🧩 [Compilador Pascal-S](https://github.com/antonioolleramos/compilador-pascal-s)
 
-O projeto permite executar operações semelhantes às de um sistema de arquivos real, com persistência em disco virtual e testes automatizados.
+**Python · Compiladores · Análise Léxica e Sintática**
+
+Front-end de compilador acadêmico com análises léxica, sintática e semântica utilizando PLY.
 
 ## 📚 Outros projetos e experiências
-
-**Compilador Pascal-S** — Desenvolvimento de um front-end de compilador em Python, com análises léxica, sintática e semântica utilizando PLY.
 
 **Website Institucional Innovatio** — Personalização e desenvolvimento de interface responsiva em Joomla, utilizando PHP, HTML e CSS, incluindo páginas institucionais e integração de formulário de contato.
 
