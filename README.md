@@ -28,6 +28,12 @@
 Demonstração interativa para portfólio, inspirada em um sistema institucional de gestão de incubadoras. A versão pública utiliza dados fictícios; o sistema profissional original em Next.js, React, TypeScript, PostgreSQL e Prisma permanece privado.
 
 <!-- CHAT-TCP-START -->
+### 💬 [Chat TCP em Python — Cliente/Servidor](https://github.com/antonioolleramos/chat-tcp-python)
+
+**Python · Redes de Computadores · Sockets TCP · Concorrência**
+
+Projeto acadêmico em equipe com servidor multicliente, mensagens privadas, grupos com administração, entrega de mensagens offline e protocolo de aplicação documentado. Inclui testes automatizados e integração contínua no GitHub Actions.
+
 <!-- CHAT-TCP-END -->
 
 ### 💾 [Sistema de Arquivos com i-nodes](https://github.com/antonioolleramos/sistema-de-arquivos-inodes)
