@@ -54,11 +54,6 @@ Simulador de escalonamento, gerenciamento de memória, filas de processos, bloqu
 
 Fork com tela inicial minimalista, relógio, clima, navegação por controle remoto e documentação com imagens reais da TV.
 
-### 🧩 [Compilador Pascal-S](https://github.com/antonioolleramos/compilador-pascal-s)
-
-**Python · Compiladores · Análise Léxica e Sintática**
-
-Front-end de compilador acadêmico com análises léxica, sintática e semântica utilizando PLY.
 
 ## 📚 Outros projetos e experiências
 
