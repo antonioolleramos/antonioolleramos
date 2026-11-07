@@ -16,7 +16,7 @@
 | **Front-end** | React, Next.js, HTML5, CSS3, Tailwind CSS |
 | **Back-end** | Node.js, Next.js, Prisma ORM |
 | **Banco de dados** | PostgreSQL, MySQL |
-| **Ferramentas** | Git, GitHub, Docker, Joomla |
+| **Ferramentas** | Git, GitHub, Joomla |
 | **Jogos e simulações** | Pygame, Pyxel |
 
 ## 🚀 Projetos em destaque
